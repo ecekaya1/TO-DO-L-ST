@@ -4,7 +4,7 @@ from tkinter import ttk
 import json
 
 
-class To_Do_List:
+class TaskMaster:
     def __init__(self, pencere):
         self.pencere = pencere
         self.pencere.title("To-Do List")
@@ -242,7 +242,7 @@ class To_Do_List:
             messagebox.showinfo("Görev Detayları", f"Görev: {ad}\nAyrıntılar: {ayrıntı}\nÖnem Sırası: {öncelik}\n")
 
 pencere = tk.Tk()
-proje = To_Do_List(pencere)
+proje = TaskMaster(pencere)
 proje.yükle()
 proje.yükle_tamamlananları()
 pencere.mainloop()
