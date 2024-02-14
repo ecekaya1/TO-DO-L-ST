@@ -1,4 +1,4 @@
-The purpose of a to-do list is to help individuals organize, prioritize, and manage their tasks and responsibilities effectively. To-do lists serve as valuable tools for personal and professional productivity, helping individuals stay organized, focused, and on track toward achieving their goals.
+The purpose of a TaskMaster is to help individuals organize, prioritize, and manage their tasks and responsibilities effectively. TaskMaster serve as valuable tools for personal and professional productivity, helping individuals stay organized, focused, and on track toward achieving their goals.
 ![image](https://github.com/ecekaya1/TO-DO-LIST/assets/115822012/e0126184-8c40-45f3-928f-c41603bfa98d)
 *********
 ![image](https://github.com/ecekaya1/TO-DO-LIST/assets/115822012/32b5c550-4d62-4475-b05f-99291744d215)
